@@ -1,6 +1,5 @@
-drop database Avaliacao2302;
-create database Avaliacao2302;
-use Avaliacao2302;
+create database solucaoSql;
+use solucaoSql;
 
 /*Questão 1 tabela categoria criada*/
 create table tabCategoria (
